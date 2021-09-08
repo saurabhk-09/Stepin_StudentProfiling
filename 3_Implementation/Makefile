@@ -2,11 +2,13 @@ PROJECT_NAME = all
 
 BUILD_DIR = Build
 
-SRC = src/studentAdd.c\
-src/studentDelete.c\
-src/studentDisplay.c\
-src/studentModify.c\
-src/studentSearch.c\
+SRC = src/record_add.c\
+src/record_delete.c\
+src/record_display.c\
+src/record_goto.c\
+src/record_menu.c\
+src/record_modify.c\
+src/record_search.c\
 
 INC = -Iinc\
 -Iunity
@@ -27,7 +29,7 @@ endif
 .PHONY : all test coverage run clean doc
 
 all:$(BUILD_DIR)
-	gcc student.c $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(PROJECT_NAME).$(EXEC))
+	gcc record.c $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(PROJECT_NAME).$(EXEC))
 
 run: all
 	$(call FixPath,$(BUILD_DIR)/$(PROJECT_NAME).$(EXEC))

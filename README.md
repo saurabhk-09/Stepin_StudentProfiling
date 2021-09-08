@@ -4,3 +4,4 @@
 
 ![Code Quality Score](https://www.code-inspector.com/project/27778/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/27778/status/svg)
+[![Contribution Check - Git Inspector](https://github.com/saurabhk-09/Stepin_StudentProfiling/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saurabhk-09/Stepin_StudentProfiling/actions/workflows/gitinspector.yml)

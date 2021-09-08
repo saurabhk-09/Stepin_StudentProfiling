@@ -13,9 +13,11 @@
 5. Search Student data 
 
 ## Defining Our System
+[!image](https://github.com/saurabhk-09/Stepin_StudentProfiling/blob/main/1_Requirements/design.JPG)
 
 
 ## SWOT ANALYSIS
+[!image](https://github.com/saurabhk-09/Stepin_StudentProfiling/blob/main/1_Requirements/swat.JPG)
 
 
 

@@ -1,10 +1,9 @@
-## Introduction: 
->Student Profiling is designed to help and manage the daily school activities of recording and maintaining student data by automating it. It is also known as the student information system (SIS).
->The system is equipped with a robust set of features like adding, viewing, searching a particular student data, modifying etc. These tools help in managing the institute efficiently and accurately. In other words, it saves time, avoid loss of data, and other wastages.
->This application provides user friendly interface as well. 
->The project is designed for developing the Student Information Management system whose purpose is to reduce the complexities of keeping record and documentation in the inventory management.
+## Introduction
 
-## Features:
+Student Profiling is designed to help and manage the daily school activities of recording and maintaining student data by automating it. It is also known as the student information system (SIS).The system is equipped with a robust set of features like adding, viewing, searching a particular student data, modifying etc. These tools help in managing the institute efficiently and accurately. In other words, it saves time, avoid loss of data, and other wastages.This application provides user friendly interface as well. 
+The project is designed for developing the Student Information Management system whose purpose is to reduce the complexities of keeping record and documentation in the inventory management.
+
+## Features
 
 1. Add Student data
 2. Display Student data
@@ -13,35 +12,38 @@
 5. Search Student data 
 
 ## Defining Our System
+
 ![image](https://github.com/saurabhk-09/Stepin_StudentProfiling/blob/main/1_Requirements/design.JPG)
 
-
 ## SWOT ANALYSIS
+
 ![image](https://github.com/saurabhk-09/Stepin_StudentProfiling/blob/main/1_Requirements/swot.JPG)
-
-
 
 ## 4W and 1H
 
-# Who:
+# Who
+
 Administrators in Schools,Colleges,Tution Centres,Universities and other organisations.
 
-# What:
+# What
+
 This system enables the authorities to record and manage all the student data of the particular school/college or organisation. This is done to reduce the complexities of keeping record and documentation in the inventory management.
 
-# When:
+# When
+
 Student Profiling application can be used in the schools/organisations where they still store the information of the student in the register files manually.
 
-# Where:
+# Where
+
 This project is developed for the schools/organistions for Student Information storage. 
 
-# How:
+# How
+
 This project can perform operations like add, modify, delete, search and displaying of student information.
 
-
-
 # Detail requirements
-## High Level Requirements:
+
+## High Level Requirements
 
 | ID | Description | Status (Implemented/Future) |
 |:---:|:---:|:---:|
@@ -50,7 +52,8 @@ This project can perform operations like add, modify, delete, search and display
 |H3| User shall be able to search and modify particular student data | Implemented |
 |H4| User shall be able to delete a particular student data | Implemented |
 
-##  Low level Requirements:
+##  Low level Requirements
+
 | ID | Description | Status (Implemented/Future) |
 |:---:|:---:|:---:|
 |L1| To show the Menu of different operations where user can select a particular operationlike add,modify,search,display and delete | Implemented |
